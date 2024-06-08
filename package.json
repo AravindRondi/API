@@ -1,0 +1,25 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AravindRondi/authenticateWebApp.git"
+  },
+  "author": "Aravind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AravindRondi/authenticateWebApp/issues"
+  },
+  "homepage": "https://github.com/AravindRondi/authenticateWebApp#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.3"
+  }
+}
